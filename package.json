@@ -1,20 +1,23 @@
 {
-  "name": "calculater-simple-switchcase-by-shahmeer-khan",
-  "type": "module",
-  "version": "1.0.0",
-  "description": "A simple calculater with typescript, Node.js and inquirer,chalk",
+  "name": "kshahmeer10-simple-calculator",
+  "version": "1.0.2",
+  "description": "",
   "main": "index.js",
+  "type": "module",
   "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Shahmeer Khan",
-  "license": "MIT",
-  "dependencies": {
-    "chalk": "^5.3.0",
-    "inquirer": "^9.2.16"
-  },
+  "keywords": [
+    "npx",
+    "kshahmeer10-to-do-list"
+  ],
+  "author": "kshahmeer10",
+  "license": "ISC",
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0"
   }
 }
